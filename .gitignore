@@ -46,7 +46,6 @@ docs/_api/
 /site
 *.mo
 *.pot
-docs/_api/
 
 # Environments
 .env
